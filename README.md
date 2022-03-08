@@ -6,6 +6,6 @@ This program was created for the needs of the following publication:
 
 _Deep Learning applied in artworks: Sentiment analysis, Art Genre Classification, Art Dataset_ by **Andreas Gavros**, **Stavros Demetriadis**, and **Anastasios Tefas**.
 
-Disclaimer: This code is free to use and edit at will, however a citation of this work should be provided.
+Disclaimer: This code is free to use and edit at will, however a citation of this work should be provided. _(Citation yet to be provided)_
 
 Notice: This is a work in process and the code can be modified in order to yield better results. 
