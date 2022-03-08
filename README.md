@@ -6,6 +6,8 @@ As this is a **semi** automated scraper, there is need of providing the code an 
 
 ![dali-wikiart](https://github.com/andreasgav/semi-automated-wikiart-scraper/blob/main/dali-wikiart-sheet.jpg)
 
+After the sheet is saved to the same folder as the .py file, we can run the code that will return us all downloadable files. 
+
 This program was created for the needs of the following publication: 
 
 _Deep Learning applied in artworks: Sentiment analysis, Art Genre Classification, Art Dataset_ by **Andreas Gavros**, **Stavros Demetriadis**, and **Anastasios Tefas**.
