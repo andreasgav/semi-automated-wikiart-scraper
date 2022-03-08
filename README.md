@@ -1,6 +1,10 @@
 ## semi-automated-wikiart-scraper
 
-A semi/automated scraper that can extract paintings (used for academical and scientific projects) from https://www.wikiart.org at a success rate of rougly 75%. 
+A semi/automated scraper that can extract paintings (used for academical and scientific projects) from https://www.wikiart.org at a success rate of rougly 75%.
+
+As this is a >semi automated scraper, there is need of providing the code an excel file of picture-names from an artist's wikiart related page, as displayed:
+
+![dali-wikiart](https://myoctocat.com/assets/images/base-octocat.svg)
 
 This program was created for the needs of the following publication: 
 
