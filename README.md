@@ -4,7 +4,7 @@ A semi/automated scraper that can extract paintings (used for academical and sci
 
 As this is a >semi automated scraper, there is need of providing the code an excel file of picture-names from an artist's wikiart related page, as displayed:
 
-![dali-wikiart](https://myoctocat.com/assets/images/base-octocat.svg)
+![dali-wikiart](https://github.com/andreasgav/semi-automated-wikiart-scraper/blob/main/dali-wikiart.JPG)
 
 This program was created for the needs of the following publication: 
 
